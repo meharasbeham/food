@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Diplomata+SC&family=Montserrat:ital,wght@0,600;1,700&family=Poppins:wght@600&family=Satisfy&display=swap');
+.container{
+  background-color: rgb(228, 16, 189);
+margin: 40px 10.px;
+}
+.row{
+  display: flex;
+}
+.desc{
+  color: aqua;
+  text-decoration:double underline;
+}
+. text{
+  background-color: bisque;
+}
+.r{
+  background-color: chartreuse;
+    
+}
+i{
+  background-color: aqua;
+}
+.row{
+  display: grid;
+
+}
+
+input{
+  border-radius: 20px;
+  background-color: darkorange;
+}
+section{
+  background-color:gold;
+}
+h2{
+  background-color: antiquewhite;
+  color:rgb(167, 10, 173);
+  
+
+}
+.row1{
+  padding-right: 10px;
+}
+.a{
+  margin-left: 10px;
+  display: flex;
+
+  -ms-flex-align: center;
+  text-decoration-thickness: 10px;
+}
+.b{
+  margin-left: 3dvh;
+  display: flex;
+}
+h3{
+  padding: 10px;
+}
+.e{
+  display: flex;
+}
+
+.D{
+  display: flex;
+
+}
+h4{
+  font-display: center;
+  
+}
+.l{
+text-wrap:wrap;
+}
+.h1{
+  text-align: center;
+
+}
